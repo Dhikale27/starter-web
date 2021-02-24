@@ -5,7 +5,11 @@
 
 -->
 <head>
+<<<<<<< HEAD
+	<title>An masterbranch Website</title>
+=======
 	<title>An Realwok Website</title>
+>>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -19,10 +23,15 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
+<<<<<<< HEAD
 			This file is in mater branch...
+=======
+			this file is from RealWork branch
+>>>>>>> realwork
 		</p>
 	</main>
 	<footer class="container">
+		<p>&copy; Company github 2014</p>
 	</footer>
 </body>
 </html>
