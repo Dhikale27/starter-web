@@ -10,3 +10,4 @@ this line is for learning about Stashing
 
 Sample website with plenty of files for demos
 next porpose is to learning GitHub
+purpose is to know stash for untracked files
