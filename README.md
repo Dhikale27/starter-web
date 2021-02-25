@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 also im typing this line for learning Rebase command of GitHub
-
+this line is for learning about Stashing
 #Introduction
 
 
